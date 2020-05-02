@@ -4,7 +4,7 @@ chardet==3.0.4
 click==6.7
 colorama==0.3.9
 Cython==0.28.3
-dash==0.21.1
+dash==0.28.5
 dash-auth==1.0.2
 dash-core-components==0.36.0
 dash-html-components==0.13.2
